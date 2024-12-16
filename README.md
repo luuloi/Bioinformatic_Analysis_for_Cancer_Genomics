@@ -1,9 +1,10 @@
 # Bioinformatic Analysis for Cancer Genomics (2024-2025)
 #
-## [Lecture 00: Course overview "Bioinformatic Analysis for Cancer Genomics" (15/12/2024)](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_00)
-## [Lecture 01: Introduction to Next-Generation Sequencing and its clinical applications (15/12/2024)](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_01)
+## Lectures
+### [Lecture 00: Course overview "Bioinformatic Analysis for Cancer Genomics" (15/12/2024)](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_00)
+### [Lecture 01: Introduction to Next-Generation Sequencing and its clinical applications (15/12/2024)](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_01)
 
-## References
+## Materials
 - [**R book**](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Books/R)
 - [**Bioinformatics Linux**](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Books/Bioinformatics_linux)
 - [**Online resources**](https://github.com/luuloi/AppliedBioinformatics2023/blob/43e5ce8a178e579497db221a33f1cd1daed26e73/Materials/README.md)
