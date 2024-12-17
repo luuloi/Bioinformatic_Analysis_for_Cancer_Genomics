@@ -28,7 +28,7 @@
 ### [Lecture 09.1: Hallmarks of Cancer - Part II (02/03/2025)](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_09)
 ### [Lecture 09.2: Introduction to basic plots in R - Part II (02/03/2025)](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_09) <Huy, Dr. Son>
 
-### [Lecture 10.1: Introduction to ggplots in R - Part III (09/03/2025)](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_10)
+### [Lecture 10.1: Introduction to ggplots in R - Part III (09/03/2025)](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_10) <Huy, Dr. Son>
 ### [Lecture 10.2: Introduction to basic statistics in R - Part IV (09/03/2025)](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_10) <Huy, Dr. Son>
 
 ### [Lecture 11: Next-Generation Sequencing and upstream analysis for DNA-seq - Part I (16/03/2025)](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_11)
