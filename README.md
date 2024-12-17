@@ -32,12 +32,12 @@
 ### [Lecture 10.2: Introduction to basic statistics in R - Part IV (09/03/2025)](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_10) <Huy, Son>
 
 ### [Lecture 11: Next-Generation Sequencing and upstream analysis for DNA-seq - Part I (16/03/2025)](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_11)
-#### [Lecture 11.1: Introduction to DNA extraction and Library Prep](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_11) <Phu>
-#### [Lecture 11.2: Raw Data Processing and Alignment/Mapping for DNA-seq](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_11) <Duy>
+#### [Lecture 11.1: Introduction to DNA extraction and Library Prep](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_11) <Phu >
+#### [Lecture 11.2: Raw Data Processing and Alignment/Mapping for DNA-seq](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_11) <Duy >
 
 ### [Lecture 12: Next-Generation Sequencing and upstream analysis for DNA-seq - Part II (23/03/2025)](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_12)
-#### [Lecture 12.1: Introduction to DNA extraction and Library Prep](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_12) <Phu>
-#### [Lecture 12.2: Raw Data Processing and Alignment/Mapping for DNA-seq](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_12) <Duy>
+#### [Lecture 12.1: Introduction to DNA extraction and Library Prep](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_12) <Phu >
+#### [Lecture 12.2: Raw Data Processing and Alignment/Mapping for DNA-seq](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_12) <Duy >
 
 ### [Lecture 13: Downstream analysis for DNA-seq - Part I (30/03/2025)](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_13) <Dr. Minh>
 #### [Lecture 13.1: Variant Calling and Variant Filtering for DNA-seq](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_13)
