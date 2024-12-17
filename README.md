@@ -10,10 +10,10 @@
 ### [Lecture 03.1: Human Genome, Gene Annotation and UCSC Genome Browser (29/12/2024)](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_03)
 ### [Lecture 03.2: Introduction to Ubuntu, Linux command-lines, Google Colab and Github - Part II (29/12/2024)](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_03) <Quy, Hung>
 
-### [Lecture 04.1: Introduction to GENETIC DISORDER, HPO, OMIM, gnomAD and ClinVar - PartI (05/01/2025)](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_04)
+### [Lecture 04.1: Introduction to GENETIC DISORDER, HPO, OMIM, gnomAD and ClinVar - Part I (05/01/2025)](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_04)
 ### [Lecture 04.2: Introduction to basic Shell/Bash script - Part I (05/01/2024)](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_04) <Khai, Tuan Thanh>
 
-### [Lecture 05.1: Introduction to GENETIC DISORDER, HPO, OMIM, gnomAD and ClinVar - PartII (12/01/2025)](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_05)
+### [Lecture 05.1: Introduction to GENETIC DISORDER, HPO, OMIM, gnomAD and ClinVar - Part II (12/01/2025)](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_05)
 ### [Lecture 05.2: Introduction to basic Shell/Bash script - Part II (12/01/2025)](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_05) <Khai, Tuan Thanh>
 
 ### [Lecture 06.1: Somatic mutations in Cancer and COSMIC database - Part I (19/01/2025)](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_06)
@@ -32,12 +32,12 @@
 ### [Lecture 10.2: Introduction to basic statistics in R - Part IV (09/03/2025)](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_10) <Huy, Son>
 
 ### [Lecture 11: Next-Generation Sequencing and upstream analysis for DNA-seq - Part I (16/03/2025)](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_11)
-#### [Lecture 11.1: Introduction to DNA extraction and Library Prep](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_11) <Phu >
-#### [Lecture 11.2: Raw Data Processing and Alignment/Mapping for DNA-seq](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_11) <Duy >
+#### [Lecture 11.1: Introduction to DNA extraction and Library Prep](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_11) <Phu, Duy>
+#### [Lecture 11.2: Raw Data Processing and Alignment/Mapping for DNA-seq](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_11) <Duy, Phu>
 
 ### [Lecture 12: Next-Generation Sequencing and upstream analysis for DNA-seq - Part II (23/03/2025)](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_12)
-#### [Lecture 12.1: Introduction to DNA extraction and Library Prep](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_12) <Phu >
-#### [Lecture 12.2: Raw Data Processing and Alignment/Mapping for DNA-seq](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_12) <Duy >
+#### [Lecture 12.1: Introduction to DNA extraction and Library Prep](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_12) <Phu, Duy>
+#### [Lecture 12.2: Raw Data Processing and Alignment/Mapping for DNA-seq](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_12) <Duy, Phu>
 
 ### [Lecture 13: Downstream analysis for DNA-seq - Part I (30/03/2025)](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_13) <Dr. Minh>
 #### [Lecture 13.1: Variant Calling and Variant Filtering for DNA-seq](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_13)
