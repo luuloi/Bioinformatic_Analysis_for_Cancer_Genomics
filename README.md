@@ -2,7 +2,8 @@
 #
 ## Lectures
 ### [Lecture 00: Course overview "Bioinformatic Analysis for Cancer Genomics" (15/12/2024)](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_00)
-- [PDF](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_00) 
+- [PDF](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/blob/main/Lecture_00/Introduction_to_BfCG_20241215.pdf)
+- [Youtube](https://www.youtube.com/watch?v=W3zSWAtbM-g&list=PLXtgXP89Tyn-iYKR7_ShHyQEQN3CTt6AW&index=4)
 ### [Lecture 01: Introduction to Next-Generation Sequencing and its clinical applications (15/12/2024)](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_01)
 
 ### [Lecture 02.1: Introduction to Next-Generation Sequencing and its clinical applications (22/12/2024)](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_02)
