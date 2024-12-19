@@ -51,10 +51,10 @@
 #### [Lecture 14.2: Cancer Gene Panel DNA testing](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_14)
 
 ### [Lecture 15.1: Metastatic Cancer Genomics (13/04/2025)](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_15) <Dr. Ngu>
-### [Lecture 15.2: Structual Variant (SV) and Copy Number Variant Calling with DNA-seq](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_15)
+### [Lecture 15.2: Structual Variant (SV) and Copy Number Variant Calling with DNA-seq (13/04/2025)](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_15) <Dr. Loi>
 
 ### [Lecture 16.1: Genetic counseling for Mendelian inheritance diseases (20/04/2025)](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_16) <Dr. Trang>
-### [Lecture 16.2: Genetic counseling for Cancer](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_16) <Dr. Bac>
+### [Lecture 16.2: Genetic counseling for Cancer (20/04/2025)](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_16) <Dr. Bac>
 
 
 ## Materials
