@@ -9,6 +9,10 @@
 - [Youtube](https://www.youtube.com/watch?v=PPeri-O-6OY&list=PLXtgXP89Tyn-iYKR7_ShHyQEQN3CTt6AW&index=2)
 ### [Lecture 02.1: Introduction to Next-Generation Sequencing and its clinical applications (22/12/2024)](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/blob/main/Lecture_01/Introduction_DNA-seq_20241215.pdf)
 ### [Lecture 02.2: Introduction to Ubuntu, Linux command-lines, Google Colab and Github - Part I (22/12/2024)](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_02) <Quy, Hung>
+- [Introduction Colab](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/blob/main/Lecture_02/Introduction%20colab%20.pdf)
+- [Introduction Ubuntu](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/blob/main/Lecture_02/Introduction%20ubuntu%20%20and%20linux.pdf)
+- [Basic Linux - PART I](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/blob/main/Lecture_02/Ubuntu_and_basic_Linux_commmands_part1.pptx)
+- - Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tYnG5H8EH90x59W-wqsqHNGbrH6HpIkE?usp=sharing)
 
 ### [Lecture 03.1: Human Genome, Gene Annotation and UCSC Genome Browser (29/12/2024)](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_03)
 ### [Lecture 03.2: Introduction to Ubuntu, Linux command-lines, Google Colab and Github - Part II (29/12/2024)](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_03) <Quy, Hung>
