@@ -8,6 +8,8 @@
 - [PDF](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/blob/main/Lecture_01/Introduction_DNA-seq_20241215.pdf)
 - [Youtube](https://www.youtube.com/watch?v=PPeri-O-6OY&list=PLXtgXP89Tyn-iYKR7_ShHyQEQN3CTt6AW&index=2)
 ### [Lecture 02.1: Introduction to Next-Generation Sequencing and its clinical applications (22/12/2024)](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/blob/main/Lecture_01/Introduction_DNA-seq_20241215.pdf)
+- [PDF](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/blob/main/Lecture_01/Introduction_DNA-seq_20241215.pdf)
+- [Youtube](https://youtu.be/9nHMni2dcLo)
 ### [Lecture 02.2: Introduction to Ubuntu, Linux command-lines, Google Colab and Github - Part I (22/12/2024)](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_02) <Quy, Hung>
 - [Introduction Colab](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/blob/main/Lecture_02/Introduction%20colab%20.pdf)
 - [Introduction Ubuntu](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/blob/main/Lecture_02/Introduction%20ubuntu%20%20and%20linux.pdf)
