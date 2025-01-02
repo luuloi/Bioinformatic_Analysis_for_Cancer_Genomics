@@ -17,7 +17,7 @@
 - - Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tYnG5H8EH90x59W-wqsqHNGbrH6HpIkE?usp=sharing)
 
 ### [Lecture 03.1: Human Genome, Gene Annotation and UCSC Genome Browser (29/12/2024)](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_03)
-### [Lecture 03.2: Introduction to Ubuntu, Linux command-lines, Google Colab and Github - Part II (29/12/2024)](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_03) <Quy, Hung>
+### [Lecture 03.2: Introduction to Ubuntu, Linux command-lines, Google Colab and Github - Part II (29/12/2024)](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/blob/main/Lecture_03/basic_Linux_commands_part2_I.Working_with_text_files.pptx) <Quy, Hung>
 - - Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1bTZVxNMnYwKa5CH-no_53FTMC7IH3HZ3#scrollTo=LvIfeKNG6OHc)
 ### [Lecture 04.1: Introduction to GENETIC DISORDER, HPO, OMIM, gnomAD and ClinVar - Part I (05/01/2025)](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_04)
 ### [Lecture 04.2: Introduction to basic Shell/Bash script - Part I (05/01/2024)](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_04) <Khai, Tuan Thanh>
