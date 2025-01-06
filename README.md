@@ -28,9 +28,11 @@
 - - Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1bTZVxNMnYwKa5CH-no_53FTMC7IH3HZ3#scrollTo=LvIfeKNG6OHc)
 - [Q&A](https://www.youtube.com/watch?v=V4Kxd1XlVW8)
 
-### [Lecture 04.1: Introduction to GENETIC DISORDER, HPO, OMIM, gnomAD and ClinVar - Part I (05/01/2025)](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/blob/main/Lecture_04/BCG_2025Jan05.pdf)
+### [Lecture 04.1: Introduction to GENETIC DISORDER, HPO, OMIM, gnomAD and ClinVar - Part I (05/01/2025)](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/blob/main/Lecture_04)
+- [PDF](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/blob/988088823298f653dc8344856782bf60c8263854/Lecture_04/BCG_2025Jan05.pdf)
 ### [Lecture 04.2: Introduction to basic Shell/Bash script - Part I (05/01/2024)](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_04) <Khai, Tuan Thanh>
 - [PDF](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/blob/main/Lecture_04/bashscript_05_01_2025.pdf)
+  
 ### [Lecture 05.1: Introduction to GENETIC DISORDER, HPO, OMIM, gnomAD and ClinVar - Part II (12/01/2025)](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_05)
 ### [Lecture 05.2: Introduction to basic Shell/Bash script - Part II (12/01/2025)](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_05) <Khai, Tuan Thanh>
 
