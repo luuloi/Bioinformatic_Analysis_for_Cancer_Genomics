@@ -13,7 +13,7 @@
 - [Youtube](https://youtu.be/9nHMni2dcLo)
 - [Q&A](https://www.youtube.com/watch?v=EuSdIBYlxiQ)
 ### [Lecture 02.2: Introduction to Ubuntu, Linux command-lines, Google Colab and Github - Part I (22/12/2024)](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_02) <Quy, Hung>
-- [INTRODUCTION COLAB](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/blob/main/Lecture_02/Introduction%20colab%20.pdf) &emsp; [Youtube](https://youtu.be/O11h2ockwdA)
+- [INTRODUCTION GOOGLE COLAB](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/blob/main/Lecture_02/Introduction%20colab%20.pdf) &emsp; [Youtube](https://youtu.be/O11h2ockwdA)
 - [YOUTUBE - INTRODUCTION TO UBUNTU PART I](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/blob/main/Lecture_02/Introduction%20ubuntu%20%20and%20linux.pdf) &emsp; [Youtube](https://youtu.be/5_9OvVOQY3c)
 - [Basic Linux - PART I](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/blob/main/Lecture_02/Ubuntu_and_basic_Linux_commmands_part1.pptx) &emsp; [Youtube](https://youtu.be/dMGVeR6UvhI)
 - - Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tYnG5H8EH90x59W-wqsqHNGbrH6HpIkE?usp=sharing)
