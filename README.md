@@ -30,7 +30,7 @@
 
 ### [Lecture 04.1: Introduction to GENETIC DISORDER, HPO, OMIM, gnomAD and ClinVar - Part I (05/01/2025)](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/blob/main/Lecture_04)
 - [YOUTUBE](https://youtu.be/dWYBFFga2hw)
-- [PDF](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/blob/988088823298f653dc8344856782bf60c8263854/Lecture_04/BCG_2025Jan05.pdf)
+- [PDF](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/blob/cc23b961a115274237ca448c710daf4e32cfd96e/Lecture_04/BCG_2025Jan05.pdf)
 - [Q&A](https://youtu.be/ZwIsD1kxUb4)
 ### [Lecture 04.2: Introduction to basic Shell/Bash script - Part I (05/01/2024)](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_04) <Khai, Tuan Thanh>
 - [YOUTUBE](https://youtu.be/vC9N_t5GRwg)
