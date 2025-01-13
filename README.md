@@ -38,8 +38,10 @@
 - Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DMGkolSQQxbsKYF5sN5hjah2b4I_OVRm?usp=sharing)
   
 ### [Lecture 05.1: Introduction to GENETIC DISORDER, HPO, OMIM, gnomAD and ClinVar - Part II (12/01/2025)](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_05)
+- [YOUTUBE](https://youtu.be/PTp9A8cdYY4)
+- [Q&A](https://youtu.be/RGtT7MEq2P4)
 ### [Lecture 05.2: Introduction to basic Shell/Bash script - Part II (12/01/2025)](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_05) <Khai, Tuan Thanh>
-
+- [YOUTUBE](https://youtu.be/VAhd-o3M7ac)
 ### [Lecture 06.1: Somatic mutations in Cancer and COSMIC database - Part I (19/01/2025)](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_06)
 ### [Lecture 06.2: Introduction to basic AWK - Part I (19/01/2025)](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_06) <Kim, Tu>
 
