@@ -45,7 +45,7 @@
 ### [Lecture 06.1: Somatic mutations in Cancer and COSMIC database - Part I (19/01/2025)](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_06)
 ### [Lecture 06.2: Introduction to basic AWK - Part I (19/01/2025)](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_06) <Kim, Tu>
 - [LINK](https://drive.google.com/drive/folders/1Hs0b315u1yI8EkUzVt11NY7q6YNd7wC7)
-- Practice: [![Open In Colab](https://colab.research.google.com/drive/1bdr9QbrA7EpCqFpBy2d2_8R9OyRf2X7v?usp=sharing)
+- Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1bdr9QbrA7EpCqFpBy2d2_8R9OyRf2X7v?usp=sharing)
 
 ### [Lecture 07.1: Somatic mutations in Cancer and COSMIC database - Part II (16/02/2025)](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_06)
 ### [Lecture 07.2: Introduction to basic AWK - Part II (16/02/2025)](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_06) <Kim, Tu>
