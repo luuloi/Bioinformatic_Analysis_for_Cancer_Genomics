@@ -59,7 +59,8 @@
 ### [Lecture 07.2: Introduction to basic AWK - Part II (16/02/2025)](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_06) <Kim, Tu>
 - Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YmTCOOeQJ3RN6dBAuYwQ69KOuO67wAGS?usp=sharing)
 - Homework: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1HKL3YQIgiGDKWQu4tmhhLKLYQj4LU0Ac?usp=sharing)
-- YOUTUBE : [![Youtube](https://youtu.be/KytBhFFM3ck)
+- [YOUTUBE](https://youtu.be/KytBhFFM3ck)
+- [EXAMPLE](https://youtu.be/ctkC8r9z1v8)
 
 ### [Lecture 08.1: Hallmarks of Cancer - Part I (23/02/2025)](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_08)
 ### [Lecture 08.2: Introduction to basic R programming - Part I (23/02/2025)](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_08) <Huy, Dr. Son>
