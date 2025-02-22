@@ -59,7 +59,7 @@
 ### [Lecture 07.2: Introduction to basic AWK - Part II (16/02/2025)](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_06) <Kim, Tu>
 - [PPTX](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/blob/main/Lecture_07/basic%20AWK%20part%20II.pptx)
 - Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YmTCOOeQJ3RN6dBAuYwQ69KOuO67wAGS?usp=sharing)
-- Homework: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1HKL3YQIgiGDKWQu4tmhhLKLYQj4LU0Ac?usp=sharing) & emsp; Answer [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1I-kFBG8scqzvnEdTDB6UuQNWfSpfQMl8?usp=sharing)
+- Homework: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1HKL3YQIgiGDKWQu4tmhhLKLYQj4LU0Ac?usp=sharing) &emsp; Answer [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1I-kFBG8scqzvnEdTDB6UuQNWfSpfQMl8?usp=sharing)
 - [YOUTUBE](https://youtu.be/KytBhFFM3ck)
 - [EXAMPLE](https://youtu.be/ctkC8r9z1v8)
 
