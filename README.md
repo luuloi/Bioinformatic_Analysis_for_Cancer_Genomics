@@ -52,7 +52,7 @@
 - Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1bdr9QbrA7EpCqFpBy2d2_8R9OyRf2X7v?usp=sharing)
   
 
-### [Lecture 07.1: Somatic mutations in Cancer and COSMIC database - Part II (16/02/2025)](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_06)
+### [Lecture 07.1: Review: Next-Generation Sequencing, Germline vs. Somatic mutation (16/02/2025)](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_07)
 - [PDF](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/blob/main/Lecture_07/BCG_2025Feb16.pdf)
 - [YOUTUBE](https://youtu.be/w7JjnQAijQg)
 - [Q&A](https://youtu.be/KCGXSRvE0HU)
@@ -63,14 +63,17 @@
 - [YOUTUBE](https://youtu.be/KytBhFFM3ck)
 - [EXAMPLE](https://youtu.be/ctkC8r9z1v8)
 
-### [Lecture 08.1: Hallmarks of Cancer - Part I (23/02/2025)](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_08)
+### [Lecture 08.1: COSMIC database (23/02/2025)](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_08)
 ### [Lecture 08.2: Introduction to basic R programming - Part I (23/02/2025)](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_08) <Huy, Dr. Son>
 
-### [Lecture 09.1: Hallmarks of Cancer - Part II (02/03/2025)](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_09)
-### [Lecture 09.2: Introduction to basic plots in R - Part II (02/03/2025)](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_09) <Huy, Dr. Son>
+### [Lecture 09.1: Hallmarks of Cancer - Part I (23/02/2025)](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_08)
+### [Lecture 09.2: Introduction to basic plots in R - Part II (23/02/2025)](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_08) <Huy, Dr. Son>
 
-### [Lecture 10.1: Introduction to ggplots in R - Part III (09/03/2025)](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_10) <Huy, Dr. Son>
-### [Lecture 10.2: Introduction to basic statistics in R - Part IV (09/03/2025)](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_10) <Huy, Dr. Son>
+### [Lecture 10.1: Hallmarks of Cancer - Part II (02/03/2025)](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_09)
+### [Lecture 10.2: Introduction to ggplots in R - Part II (02/03/2025)](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_09) <Huy, Dr. Son>
+
+### [Lecture 11.1: Introduction to ggplots in R - Part III (09/03/2025)](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_10) <Huy, Dr. Son>
+### [Lecture 11.2: Introduction to basic statistics in R - Part IV (09/03/2025)](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_10) <Huy, Dr. Son>
 
 ### [Lecture 11: Next-Generation Sequencing and upstream analysis for DNA-seq - Part I (16/03/2025)](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_11)
 #### [Lecture 11.1: Introduction to DNA extraction and Library Prep](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_11) <Phu, Duy>
