@@ -66,9 +66,9 @@
 
 ### [Lecture 08.1: COSMIC database (23/02/2025)](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_08)
 ### [Lecture 08.2: Introduction to basic R programming - Part I (23/02/2025)](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_08) <Huy, Dr. Son>
--- [PDF](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/blob/main/Lecture_08/R.base.pdf)
--- [PPTX](https://docs.google.com/presentation/d/1sQw0cibVatuXo0ReFGls_dv2DlFtnVJSfE33rWGeRLI/edit?usp=sharing)
--- Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1bdr9QbrA7EpCqFpBy2d2_8R9OyRf2X7v?usp=sharing)
+- [PDF](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/blob/main/Lecture_08/R.base.pdf)
+- [PPTX](https://docs.google.com/presentation/d/1sQw0cibVatuXo0ReFGls_dv2DlFtnVJSfE33rWGeRLI/edit?usp=sharing)
+- Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
 
 ### [Lecture 09.1: Hallmarks of Cancer - Part I (02/03/2025)](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_08) <ThS.BS.Nguyễn Huy Thịnh>
 ### [Lecture 09.2: Introduction to basic plots in R - Part II (02/03/2025)](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_08) <Huy, Dr. Son>
