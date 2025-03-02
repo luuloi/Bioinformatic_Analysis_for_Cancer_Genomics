@@ -72,13 +72,13 @@
 - [PPTX](https://docs.google.com/presentation/d/1sQw0cibVatuXo0ReFGls_dv2DlFtnVJSfE33rWGeRLI/edit?usp=sharing)
 - Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nfexzcugXV5ZFSobajMOrDqDOjwMouFy?usp=sharing)
 
-### [Lecture 09.1: Introduction to Cancer Biology - Part I (02/03/2025)](Lecture_09/) <ThS.BS.Nguyễn Huy Thịnh>
+### [Lecture 09.1: Introduction to Cancer Biology - Part I (02/03/2025)](Lecture_09/) <ThS.BS. Nguyễn Huy Thịnh>
 ### [Lecture 09.2: Introduction to basic plots in R - Part II (02/03/2025)](Lecture_09/) <Huy, Dr. Son>
 
-### [Lecture 10.1: Introduction to Cancer Biology - Part II (09/03/2025)](Lecture_10/) <ThS.BS.Nguyễn Huy Thịnh>
+### [Lecture 10.1: Introduction to Cancer Biology - Part II (09/03/2025)](Lecture_10/) <ThS.BS. Nguyễn Huy Thịnh>
 ### [Lecture 10.2: Introduction to ggplots in R - Part II (09/03/2025)](Lecture_10/) <Huy, Dr. Son>
 
-### [Lecture 11.1: Introduction to Cancer Biology - Part III (16/03/2025)](Lecture_11/) <ThS.BS.Nguyễn Huy Thịnh>
+### [Lecture 11.1: Introduction to Cancer Biology - Part III (16/03/2025)](Lecture_11/) <ThS.BS. Nguyễn Huy Thịnh>
 ### [Lecture 11.2: Introduction to basic statistics in R - Part III (16/03/2025)](Lecture_11) <Huy, Dr. Son>
 ### [Lecture 11.3: Review R - Part IV (16/03/2025)](Lecture_11) <Huy, Dr. Son>
 
