@@ -103,8 +103,8 @@
 ### [Lecture 17.1: Structual Variant (SV) and Copy Number Variant Calling with DNA-seq (20/04/2025) <Dr. Loi>](Lecture_17) 
 ### [Lecture 17.2: Hands-on: Structual Variant (SV) Calling with DNA-seq (20/04/2025) <Nhu>](Lecture_17) 
 
-### [Lecture 18.1: Cancer Somatic Variant Annotation (28/04/2025)](Lecture_17) <Dr. Minh>
-### [Lecture 18.2: Hands-on: Copy Number Variant (CNV) Calling with DNA-seq (28/04/2025) <Nhu>](Lecture_17) 
+### [Lecture 18.1: Cancer Somatic Variant Annotation (28/04/2025) <Dr. Minh>](Lecture_17) 
+### [Lecture 18.2: Hands-on: Copy Number Variant (CNV) Calling with DNA-seq (28/04/2025) [Nhu]](Lecture_17) 
 
 ### [Lecture 19.1: Genetic counseling for Mendelian inheritance diseases (20/04/2025) <Dr. Trang>](Lecture_16) 
 ### [Lecture 19.2: Genetic counseling for Cancer (20/04/2025) <Dr. Bac>](Lecture_16)
