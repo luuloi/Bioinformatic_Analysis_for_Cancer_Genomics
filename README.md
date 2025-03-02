@@ -106,7 +106,7 @@
 ### [Lecture 17.1: Cancer Somatic Variant Annotation (28/04/2025)](Lecture_17) <Dr. Minh>
 ### [Lecture 17.2: Hands-on: Copy Number Variant (CNV) Calling with DNA-seq (28/04/2025)](Lecture_17) <Nhu>
 
-### [Lecture 16.1: Genetic counseling for Mendelian inheritance diseases (20/04/2025)]/Lecture_16) <Dr. Trang>
+### [Lecture 16.1: Genetic counseling for Mendelian inheritance diseases (20/04/2025)](Lecture_16) <Dr. Trang>
 ### [Lecture 16.2: Genetic counseling for Cancer (20/04/2025)](Lecture_16) <Dr. Bac>
 
 
