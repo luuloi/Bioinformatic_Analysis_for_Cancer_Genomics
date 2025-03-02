@@ -73,14 +73,14 @@
 - Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nfexzcugXV5ZFSobajMOrDqDOjwMouFy?usp=sharing)
 
 ### [Lecture 09.1: Introduction to Cancer Biology - Part I (02/03/2025) [ThS.BS. Nguyễn Huy Thịnh]](Lecture_09/)
-### [Lecture 09.2: Introduction to basic plots in R - Part II (02/03/2025) [Huy, Dr. Son]](Lecture_09/) 
+### [Lecture 09.2: Introduction to basic plots with R - Part II (02/03/2025) [Huy, Dr. Son]](Lecture_09/) 
 
 ### [Lecture 10.1: Introduction to Cancer Biology - Part II (09/03/2025) [ThS.BS. Nguyễn Huy Thịnh]](Lecture_10/) 
-### [Lecture 10.2: Introduction to ggplots in R - Part II (09/03/2025) [Huy, Dr. Son]](Lecture_10/) 
+### [Lecture 10.2: Introduction to ggplots with R - Part III (09/03/2025) [Huy, Dr. Son]](Lecture_10/) 
 
 ### [Lecture 11.1: Introduction to Cancer Biology - Part III (16/03/2025) [ThS.BS. Nguyễn Huy Thịnh]](Lecture_11/) 
-### [Lecture 11.2: Introduction to basic statistics in R - Part III (16/03/2025) [Huy, Dr. Son]](Lecture_11) 
-### [Lecture 11.3: Review R - Part IV (16/03/2025) [Huy, Dr. Son]](Lecture_11) 
+### [Lecture 11.2: Introduction to basic statistics with R - Part IV (16/03/2025) [Huy, Dr. Son]](Lecture_11) 
+### [Lecture 11.3: Review R - Part V (16/03/2025) [Huy, Dr. Son]](Lecture_11) 
 
 ### [Lecture 12: Next-Generation Sequencing and upstream analysis for DNA-seq - Part I (16/03/2025)](Lecture_12)
 #### [Lecture 12.1: Introduction to DNA extraction and Library Prep [Phu, Duy]](Lecture_12) 
