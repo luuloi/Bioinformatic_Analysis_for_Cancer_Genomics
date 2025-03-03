@@ -67,14 +67,18 @@
 - [EXAMPLE](https://youtu.be/ctkC8r9z1v8)
 
 ### [Lecture 08.1: COSMIC database (23/02/2025) [Loi]](Lecture_08)
+- [YOUTUBE](https://www.youtube.com/watch?v=Xw0oq6jJpkc&list=PLXtgXP89Tyn-iYKR7_ShHyQEQN3CTt6AW&index=36&t=2s)
 ### [Lecture 08.2: Introduction to basic R programming - Part I (23/02/2025) [Huy, Dr. Son]](Lecture_08) 
 - [PDF](Lecture_08/R.base.pdf)
 - [PPTX](https://docs.google.com/presentation/d/1sQw0cibVatuXo0ReFGls_dv2DlFtnVJSfE33rWGeRLI/edit?usp=sharing)
 - Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nfexzcugXV5ZFSobajMOrDqDOjwMouFy?usp=sharing)
 
 ### [Lecture 09.1: Introduction to Cancer Biology - Part I (02/03/2025) [ThS.BS. Nguyễn Huy Thịnh]](Lecture_09/Introduction_to_Cancer_Biology_part1.pdf)
+- [PDF](
+- [YOUTUBE](https://youtu.be/d8xaDOWc0Vs)
+- [Q&A](https://youtu.be/CKmjxgOpE6M)
 ### [Lecture 09.2: Introduction to basic plots with R - Part II (02/03/2025) [Huy, Dr. Son]](Lecture_09/) 
-
+- [YOUTUBE](https://youtu.be/TsUcDmjdTaQ)
 ### [Lecture 10.1: Introduction to Cancer Biology - Part II (09/03/2025) [ThS.BS. Nguyễn Huy Thịnh]](Lecture_10/) 
 ### [Lecture 10.2: Introduction to ggplots with R - Part III (09/03/2025) [Huy, Dr. Son]](Lecture_10/) 
 
@@ -82,7 +86,7 @@
 ### [Lecture 11.2: Introduction to basic statistics with R - Part IV (16/03/2025) [Huy, Dr. Son]](Lecture_11) 
 ### [Lecture 11.3: Review R - Part V (16/03/2025) [Huy, Dr. Son]](Lecture_11) 
 
-### [Lecture 12: Next-Generation Sequencing and upstream analysis for DNA-seq - Part I (16/03/2025)](Lecture_12)
+### [Lecture 12: Next-Generation Sequencing and upstream analysis for DNA-seq - Part I (16/03/2025)](Lecture_12)https://youtu.be/TsUcDmjdTaQ
 #### [Lecture 12.1: Introduction to DNA extraction and Library Prep [Phu, Duy]](Lecture_12) 
 #### [Lecture 12.2: Raw Data Processing and Alignment/Mapping for DNA-seq [Duy, Phu]](Lecture_12) 
 
