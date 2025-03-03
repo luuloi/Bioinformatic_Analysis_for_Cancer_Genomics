@@ -72,7 +72,7 @@
 - [PPTX](https://docs.google.com/presentation/d/1sQw0cibVatuXo0ReFGls_dv2DlFtnVJSfE33rWGeRLI/edit?usp=sharing)
 - Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nfexzcugXV5ZFSobajMOrDqDOjwMouFy?usp=sharing)
 
-### [Lecture 09.1: Introduction to Cancer Biology - Part I (02/03/2025) [ThS.BS. Nguyễn Huy Thịnh]](Lecture_09/)
+### [Lecture 09.1: Introduction to Cancer Biology - Part I (02/03/2025) [ThS.BS. Nguyễn Huy Thịnh]](Lecture_09/Introduction_to_Cancer_Biology_part1.pdf)
 ### [Lecture 09.2: Introduction to basic plots with R - Part II (02/03/2025) [Huy, Dr. Son]](Lecture_09/) 
 
 ### [Lecture 10.1: Introduction to Cancer Biology - Part II (09/03/2025) [ThS.BS. Nguyễn Huy Thịnh]](Lecture_10/) 
