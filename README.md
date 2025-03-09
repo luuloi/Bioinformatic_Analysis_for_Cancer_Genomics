@@ -82,7 +82,7 @@
 ### [Lecture 10.1: Introduction to Cancer Biology - Part II (09/03/2025) [ThS.BS. Nguyễn Huy Thịnh]](Lecture_10/) 
 ### [Lecture 10.2: Introduction to ggplots with R - Part III (09/03/2025) [Huy, Dr. Son]](Lecture_10/)
 - [PPTX](https://docs.google.com/presentation/d/18oGjXgykTA91DXay7zQNZkJvnIJmnQ2a/edit?usp=sharing&ouid=100344220632265055706&rtpof=true&sd=true)
-- Practice: [![Open In Colab](https://colab.research.google.com/drive/1l3GduJF_MGgZertdIM-0qmyVxuPtUfLY?usp=sharing)
+- Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1l3GduJF_MGgZertdIM-0qmyVxuPtUfLY?usp=sharing)
 ### [Lecture 11.1: Introduction to Cancer Biology - Part III (16/03/2025) [ThS.BS. Nguyễn Huy Thịnh]](Lecture_11/) 
 ### [Lecture 11.2: Introduction to basic statistics with R - Part IV (16/03/2025) [Huy, Dr. Son]](Lecture_11) 
 ### [Lecture 11.3: Review R - Part V (16/03/2025) [Huy, Dr. Son]](Lecture_11) 
