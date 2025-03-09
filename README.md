@@ -80,6 +80,7 @@
 ### [Lecture 09.2: Introduction to basic plots with R - Part II (02/03/2025) [Huy, Dr. Son]](Lecture_09/) 
 - [YOUTUBE](https://youtu.be/TsUcDmjdTaQ)
 ### [Lecture 10.1: Introduction to Cancer Biology - Part II (09/03/2025) [ThS.BS. Nguyễn Huy Thịnh]](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/blob/main/Lecture_10/%C4%90%E1%BA%A1i%20c%C6%B0%C6%A1ng%20sinh%20h%E1%BB%8Dc%20ung%20th%C6%B0.pdf) 
+- [PDF](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/blob/main/Lecture_10/%C4%90%E1%BA%A1i%20c%C6%B0%C6%A1ng%20sinh%20h%E1%BB%8Dc%20ung%20th%C6%B0.pdf)
 ### [Lecture 10.2: Introduction to ggplots with R - Part III (09/03/2025) [Huy, Dr. Son]](Lecture_10/)
 - [PPTX](https://docs.google.com/presentation/d/18oGjXgykTA91DXay7zQNZkJvnIJmnQ2a/edit?usp=sharing&ouid=100344220632265055706&rtpof=true&sd=true)
 - Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1l3GduJF_MGgZertdIM-0qmyVxuPtUfLY?usp=sharing)
