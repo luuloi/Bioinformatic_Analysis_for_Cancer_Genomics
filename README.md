@@ -80,7 +80,7 @@
 ### [Lecture 09.2: Introduction to basic plots with R - Part II (02/03/2025) [Huy, Dr. Son]](Lecture_09/) 
 - [YOUTUBE](https://youtu.be/TsUcDmjdTaQ)
 - [PPTX](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/blob/main/Lecture_09/basic_plotR.pptx)
-- [Code]
+- [Code](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/blob/main/Lecture_09/basic_plotR.R)
 ### [Lecture 10.1: Introduction to Cancer Biology - Part II (09/03/2025) [ThS.BS. Nguyễn Huy Thịnh]](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/blob/main/Lecture_10/%C4%90%E1%BA%A1i%20c%C6%B0%C6%A1ng%20sinh%20h%E1%BB%8Dc%20ung%20th%C6%B0.pdf) 
 - [PDF](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/blob/main/Lecture_10/%C4%90%E1%BA%A1i%20c%C6%B0%C6%A1ng%20sinh%20h%E1%BB%8Dc%20ung%20th%C6%B0.pdf)
 - [YOUTUBE](https://youtu.be/YpRZyF17ug0)
