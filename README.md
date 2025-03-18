@@ -94,7 +94,7 @@
 - [YOUTUBE](https://youtu.be/XznM__Hg--0)
 - [Q&A](https://youtu.be/1TY42afFK_U)
 ### [Lecture 11.2: Introduction to basic statistics with R - Part IV (16/03/2025) [Huy, Dr. Son]](Lecture_11) 
--[YOUTUBE](https://youtu.be/0Ih-_fpfBM4)
+- [YOUTUBE](https://youtu.be/0Ih-_fpfBM4)
 ### [Lecture 11.3: Review R - Part V (16/03/2025) [Huy, Dr. Son]](Lecture_11) 
 
 ### [Lecture 12: Next-Generation Sequencing and upstream analysis for DNA-seq - Part I (23/03/2025)](Lecture_12)
