@@ -98,34 +98,35 @@
 - [PPTX](https://docs.google.com/presentation/d/1hMirLH5t6i9YgiC1r8AgWQAk1X2k6RlRBF4feB1yBZY/edit?usp=sharing)
 - Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EB90siBp9USSdRPQILVuVgAXkW3SvyjI?usp=sharing
 )
-### [Lecture 11.3: Review R - Part V (16/03/2025) [Huy, Dr. Son]](Lecture_11) 
-### [Lecture 12: Next-Generation Sequencing and upstream analysis for DNA-seq - Part I (23/03/2025)](Lecture_12)
-#### [Lecture 12.1: Introduction to DNA extraction and Library Prep [Phu, Duy]](Lecture_12) 
-#### [Lecture 12.2: Raw Data Processing and Alignment/Mapping for DNA-seq [Duy, Phu]](Lecture_12) 
+### [Lecture 12.1: Introduction to Cancer Biology - Part IV [ThS.BS. Nguyễn Huy Thịnh]] (23/03/2025)]
+### [Lecture 12.2: Review R - Part V (23/03/2025) [Huy, Dr. Son]](Lecture_11) 
 
-### [Lecture 13: Next-Generation Sequencing and upstream analysis for DNA-seq - Part II (30/03/2025)](Lecture_13)
-#### [Lecture 13.1: Introduction to DNA extraction and Library Prep [Phu, Duy]](Lecture_13) 
-#### [Lecture 13.2: Raw Data Processing and Alignment/Mapping for DNA-seq [Duy, Phu]](Lecture_13) 
+#### [Lecture 13.1: Introduction to DNA extraction and Library Prep [Phu, Duy](30/03/2025)](Lecture_13) 
+#### [Lecture 13.2: Raw Data Processing and Alignment/Mapping for DNA-seq [Duy, Phu]](Lecture_12) 
 
-### [Lecture 14: Downstream analysis for DNA-seq - Part I (06/04/2025) [Dr. Minh]](Lecture_14) 
-#### [Lecture 14.1: Variant Calling and Variant Filtering for DNA-seq](Lecture_14)
-#### [Lecture 14.2: Variant Annotation and Variant Annotation databases for DNA-seq - Part I](Lecture_14) 
+### [Lecture 14: Next-Generation Sequencing and upstream analysis for DNA-seq - Part II (06/04/2025)](Lecture_14)
+#### [Lecture 14.1: Introduction to DNA extraction and Library Prep [Phu, Duy]](Lecture_14) 
+#### [Lecture 14.2: Raw Data Processing and Alignment/Mapping for DNA-seq [Duy, Phu]](Lecture_14) 
 
-### [Lecture 15: Downstream analysis for DNA-seq - Part II (13/04/2025) [Dr. Minh]](Lecture_15) 
-#### [Lecture 15.1: Variant Annotation and Variant Annotation databases for DNA-seq - Part II](Lecture_15)
-#### [Lecture 15.2: Cancer Gene Panel DNA testing](Lecture_15)
+### [Lecture 15: Downstream analysis for DNA-seq - Part I (13/04/2025) [Dr. Minh]](Lecture_15) 
+#### [Lecture 15.1: Variant Calling and Variant Filtering for DNA-seq](Lecture_15)
+#### [Lecture 15.2: Variant Annotation and Variant Annotation databases for DNA-seq - Part I](Lecture_15) 
 
-### [Lecture 16: Metastatic Cancer Genomics (20/04/2025) [Dr. Ngu]](Lecture_16) 
+### [Lecture 16: Downstream analysis for DNA-seq - Part II (20/04/2025) [Dr. Minh]](Lecture_16) 
+#### [Lecture 16.1: Variant Annotation and Variant Annotation databases for DNA-seq - Part II](Lecture_16)
+#### [Lecture 16.2: Cancer Gene Panel DNA testing](Lecture_16)
 
-### [Lecture 17.1: Structual Variant (SV) and Copy Number Variant Calling with DNA-seq (27/04/2025) [Dr. Loi]](Lecture_17) 
-### [Lecture 17.2: Hands-on: Structual Variant (SV) Calling with DNA-seq (27/04/2025) [Nhu]](Lecture_17) 
+### [Lecture 17: Metastatic Cancer Genomics (27/04/2025) [Dr. Ngu]](Lecture_17) 
 
-### [Lecture 18.1: Cancer Somatic Variant Annotation (04/05/2025) [Dr. Minh]](Lecture_17)
+### [Lecture 18.1: Structual Variant (SV) and Copy Number Variant Calling with DNA-seq (04/05/2025) [Dr. Loi]](Lecture_18) 
+### [Lecture 18.2: Hands-on: Structual Variant (SV) Calling with DNA-seq (27/04/2025) [Nhu]](Lecture_18) 
+
+### [Lecture 19.1: Cancer Somatic Variant Annotation (11/05/2025) [Dr. Minh]](Lecture_19)
 - [LECTURE](https://docs.google.com/presentation/d/e/2PACX-1vRbPaIOIpCVe9wTYvLCqLknSwFOcQ0wP8FQzdniHf7Ddveb3Z8ltHYYEiHnzH4mlep4X3EfUyyfx49L/pub?start=true&loop=false&delayms=60000&slide=id.p)
-### [Lecture 18.2: Hands-on: Copy Number Variant (CNV) Calling with DNA-seq (04/05/2025) [Nhu]](Lecture_17) 
+### [Lecture 19.2: Hands-on: Copy Number Variant (CNV) Calling with DNA-seq (04/05/2025) [Nhu]](Lecture_19) 
 
-### [Lecture 19.1: Genetic counseling for Mendelian inheritance diseases (11/05/2025) [Dr. Trang]](Lecture_16) 
-### [Lecture 19.2: Genetic counseling for Cancer (11/05/2025) [Dr. Bac]](Lecture_16)
+### [Lecture 20.1: Genetic counseling for Mendelian inheritance diseases (18/05/2025) [Dr. Trang]](Lecture_20) 
+### [Lecture 20.2: Genetic counseling for Cancer (18/05/2025) [Dr. Bac]](Lecture_20)
 
 
 ## Materials
