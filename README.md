@@ -98,10 +98,10 @@
 - [PPTX](https://docs.google.com/presentation/d/1hMirLH5t6i9YgiC1r8AgWQAk1X2k6RlRBF4feB1yBZY/edit?usp=sharing)
 - Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EB90siBp9USSdRPQILVuVgAXkW3SvyjI?usp=sharing
 )
-### [Lecture 12.1: Introduction to Cancer Biology - Part IV [ThS.BS. Nguyễn Huy Thịnh]](23/03/2025)(Lecture_12) 
+### [Lecture 12.1: Introduction to Cancer Biology - Part IV [ThS.BS. Nguyễn Huy Thịnh]](23/03/2025)
 ### [Lecture 12.2: Review R - Part V (23/03/2025) [Huy, Dr. Son]](Lecture_12) 
 
-### [Lecture 13.1: Introduction to DNA extraction and Library Prep [Phu, Duy](30/03/2025)](Lecture_13)
+### [Lecture 13.1: Introduction to DNA extraction and Library Prep [Phu, Duy](30/03/2025)]
 ### [Lecture 13.2: Raw Data Processing and Alignment/Mapping for DNA-seq [Duy, Phu]](Lecture_13) 
 
 ### [Lecture 14: Next-Generation Sequencing and upstream analysis for DNA-seq - Part II (06/04/2025)](Lecture_14)
