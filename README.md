@@ -89,7 +89,7 @@
 - [PPTX](https://docs.google.com/presentation/d/18oGjXgykTA91DXay7zQNZkJvnIJmnQ2a/edit?usp=sharing&ouid=100344220632265055706&rtpof=true&sd=true)
 - Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1l3GduJF_MGgZertdIM-0qmyVxuPtUfLY?usp=sharing)
 - [YOUTUBE](https://youtu.be/Q-IjwQHUWSE)
-### [Lecture 11.1: Introduction to Cancer Biology - Part III (16/03/2025) [ThS.BS. Nguyễn Huy Thịnh]](Lecture_11/)
+### [Lecture 11.1: Introduction to Cancer Biology - Part III (16/03/2025) [ThS.BS. Nguyễn Huy Thịnh]](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/blob/main/Lecture_10/%C4%90%E1%BA%A1i%20c%C6%B0%C6%A1ng%20sinh%20h%E1%BB%8Dc%20ung%20th%C6%B0.pdf)
 - [PDF](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/blob/main/Lecture_10/%C4%90%E1%BA%A1i%20c%C6%B0%C6%A1ng%20sinh%20h%E1%BB%8Dc%20ung%20th%C6%B0.pdf)
 - [YOUTUBE](https://youtu.be/XznM__Hg--0)
 - [Q&A](https://youtu.be/1TY42afFK_U)
@@ -99,10 +99,10 @@
 - Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EB90siBp9USSdRPQILVuVgAXkW3SvyjI?usp=sharing
 )
 ### [Lecture 12.1: Introduction to Cancer Biology - Part IV [ThS.BS. Nguyễn Huy Thịnh]] (23/03/2025)]
-### [Lecture 12.2: Review R - Part V (23/03/2025) [Huy, Dr. Son]](Lecture_11) 
+### [Lecture 12.2: Review R - Part V (23/03/2025) [Huy, Dr. Son]](Lecture_12) 
 
-#### [Lecture 13.1: Introduction to DNA extraction and Library Prep [Phu, Duy](30/03/2025)](Lecture_13) 
-#### [Lecture 13.2: Raw Data Processing and Alignment/Mapping for DNA-seq [Duy, Phu]](Lecture_12) 
+### [Lecture 13.1: Introduction to DNA extraction and Library Prep [Phu, Duy](30/03/2025)]](Lecture_13)
+### [Lecture 13.2: Raw Data Processing and Alignment/Mapping for DNA-seq [Duy, Phu]](Lecture_13) 
 
 ### [Lecture 14: Next-Generation Sequencing and upstream analysis for DNA-seq - Part II (06/04/2025)](Lecture_14)
 #### [Lecture 14.1: Introduction to DNA extraction and Library Prep [Phu, Duy]](Lecture_14) 
