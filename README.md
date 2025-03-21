@@ -95,8 +95,10 @@
 - [Q&A](https://youtu.be/1TY42afFK_U)
 ### [Lecture 11.2: Introduction to basic statistics with R - Part IV (16/03/2025) [Huy, Dr. Son]](Lecture_11) 
 - [YOUTUBE](https://youtu.be/0Ih-_fpfBM4)
+- [PPTX](https://docs.google.com/presentation/d/1hMirLH5t6i9YgiC1r8AgWQAk1X2k6RlRBF4feB1yBZY/edit?usp=sharing)
+- Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EB90siBp9USSdRPQILVuVgAXkW3SvyjI?usp=sharing
+)
 ### [Lecture 11.3: Review R - Part V (16/03/2025) [Huy, Dr. Son]](Lecture_11) 
-
 ### [Lecture 12: Next-Generation Sequencing and upstream analysis for DNA-seq - Part I (23/03/2025)](Lecture_12)
 #### [Lecture 12.1: Introduction to DNA extraction and Library Prep [Phu, Duy]](Lecture_12) 
 #### [Lecture 12.2: Raw Data Processing and Alignment/Mapping for DNA-seq [Duy, Phu]](Lecture_12) 
