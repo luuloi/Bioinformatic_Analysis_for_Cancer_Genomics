@@ -99,8 +99,12 @@
 - Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EB90siBp9USSdRPQILVuVgAXkW3SvyjI?usp=sharing
 )
 ### [Lecture 12.1: Introduction to Cancer Biology - Part IV (23/03/2025) [ThS.BS. Nguyễn Huy Thịnh]](Lecture_12)
+- [PDF](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Lecture_12)
+- [YOUTUBE](https://youtu.be/u0nffvJZMYc)
+- [Q&A](https://youtu.be/wK_BL-y2VN8)
 ### [Lecture 12.2: Review R - Part V (23/03/2025) [Huy, Dr. Son]](Lecture_12) 
-
+- [YOUTUBE](https://youtu.be/vRTtgTCZzyw), (https://youtu.be/FyzJpPRujhw)
+- Practice: [![Open In Colab](https://colab.research.google.com/drive/15RPVCG6wAgXdwhgNsT38VlW9OsUvpDVC#scrollTo=wyBWGzoV_qSf)]
 ### [Lecture 13: Next-Generation Sequencing and upstream analysis for DNA-seq - Part I (30/03/2025)](Lecture_13)
 ### [Lecture 13.1: Introduction to DNA extraction and Library Prep [Phu, Duy]](Lecture_13)
 ### [Lecture 13.2: Raw Data Processing and Alignment/Mapping for DNA-seq [Duy, Phu]](Lecture_13) 
