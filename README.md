@@ -108,8 +108,11 @@
 
 ### [Lecture 13: Wetlab for NGS DNA-seq (30/03/2025)](Lecture_13)
 #### [Lecture 13.1: Introduction to DNA extraction [Phu]](Lecture_13)
+- [YOUTUBE](https://youtu.be/PoyioEJRQjM)
+- [Q&A](https://youtu.be/Ov968WX_854)
 #### [Lecture 13.2:  Introduction to Library Prep [Phu]](Lecture_13) 
-
+- [YOUTUBE](https://youtu.be/janiQ2t1xEw)
+- [Q&A](https://youtu.be/k--6SZZduIg)
 ### [Lecture 14: Upstream analysis for DNA-seq - Part II (06/04/2025)](Lecture_14)
 #### [Lecture 14.1: Raw Data Processing and Alignment/Mapping for DNA-seq [Duy]](Lecture_14) 
 
