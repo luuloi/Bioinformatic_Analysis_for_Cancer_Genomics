@@ -113,9 +113,11 @@
 #### [Lecture 13.2:  Introduction to Library Prep [Phu]](Lecture_13) 
 - [YOUTUBE](https://youtu.be/janiQ2t1xEw)
 - [Q&A](https://youtu.be/6qSYPQJoP8A)
-### [Lecture 14: Upstream analysis for DNA-seq - Part II (06/04/2025)](Lecture_14)
-#### [Lecture 14.1: Raw Data Processing and Alignment/Mapping for DNA-seq [Duy]](Lecture_14) 
-
+### [Lecture 14: Upstream analysis for DNA-seq (06/04/2025)](Lecture_14)
+#### [Lecture 14.1: Raw Data Processing [Duy]](Lecture_14)
+- [Hands-on 1]
+#### [Lecture 14.2: Alignment/Mapping, BAM format and QC BAM [Duy]](Lecture_14)
+- [Hands-on 2]
 ### [Lecture 15: Downstream analysis for DNA-seq - Part I (13/04/2025) [Dr. Minh]](Lecture_15) 
 #### [Lecture 15.1: Variant Calling and Variant Filtering for DNA-seq](Lecture_15)
 #### [Lecture 15.2: Variant Annotation and Variant Annotation databases for DNA-seq - Part I](Lecture_15) 
