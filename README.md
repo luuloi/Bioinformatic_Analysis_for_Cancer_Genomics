@@ -116,8 +116,12 @@
 ### [Lecture 14: Upstream analysis for DNA-seq (06/04/2025)](Lecture_14)
 #### [Lecture 14.1: Raw Data Processing [Duy]](Lecture_14)
 - [Hands-on 1]
+- [YOUTUBE](https://youtu.be/AqeVBoHxDsQ)
+- [Q&A](https://youtu.be/XpA-hWN8BBs)
 #### [Lecture 14.2: Alignment/Mapping, BAM format and QC BAM [Duy]](Lecture_14)
 - [Hands-on 2]
+- [YOUTUBE](https://youtu.be/Tk5_qYMOc8Y)
+- [Q&A](https://youtu.be/QDMO6uyjg1I)
 ### [Lecture 15: Downstream analysis for DNA-seq - Part I (13/04/2025) [Dr. Minh]](Lecture_15) 
 #### [Lecture 15.1: Variant Calling and Variant Filtering for DNA-seq](Lecture_15)
 #### [Lecture 15.2: Variant Annotation and Variant Annotation databases for DNA-seq - Part I](Lecture_15) 
