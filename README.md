@@ -124,8 +124,11 @@
 ### [Lecture 15: Downstream analysis for DNA-seq - Part I (13/04/2025) [Dr. Minh]](Lecture_15) 
 #### [Lecture 15.1: Variant Calling and Variant Filtering for DNA-seq](Lecture_15)
 - [LECTURE](https://docs.google.com/presentation/d/e/2PACX-1vS5udQmcWMn-sQGjztqJZK4w-R9QsDVPxCdqwo1c0vEB-HM_c9X-SK3yQltk7HL_w/pub?start=true&loop=false&delayms=60000)
+- [YOUTUBE](https://youtu.be/8TIH7HR5woM)
+- [Q&A](https://youtu.be/rxEHZNvDDSo)
 #### [Lecture 15.2: Variant Annotation and Variant Annotation databases for DNA-seq - Part I](Lecture_15)
 - [LECTURE](https://docs.google.com/presentation/d/e/2PACX-1vQkgP52M2vkQFtKJ69a0NuPw1GzFDnfvjIG4FpRBIunotSpFme106KOnrF0BSfTCg/pub?start=true&loop=false&delayms=60000)
+- [YOUTUBE](https://youtu.be/MbrVBB5HOh8)
 
 ### [Lecture 16: Downstream analysis for DNA-seq - Part II (20/04/2025) [Dr. Minh]](Lecture_16) 
 #### [Lecture 16.1: Variant Annotation and Variant Annotation databases for DNA-seq - Part II](Lecture_16)
