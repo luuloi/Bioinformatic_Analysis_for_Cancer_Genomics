@@ -131,7 +131,7 @@
 - [YOUTUBE](https://youtu.be/MbrVBB5HOh8)
 
 ### [Lecture 16: Downstream analysis for DNA-seq - Part II (20/04/2025) [Dr. Minh]](Lecture_16) 
-#### [Lecture 16.1: Variant Annotation and Variant Annotation databases for DNA-seq - Part II](Lecture_16)
+#### [Lecture 16.1: Variant Annotation and its databases for DNA-seq - Part II](Lecture_16)
 - [LECTURE](https://docs.google.com/presentation/d/e/2PACX-1vQkgP52M2vkQFtKJ69a0NuPw1GzFDnfvjIG4FpRBIunotSpFme106KOnrF0BSfTCg/pub?start=true&loop=false&delayms=60000)
 - [YOUTUBE](https://www.youtube.com/watch?v=MbrVBB5HOh8)
 #### [Lecture 16.2: Cancer Gene Panel DNA testing](Lecture_16)
