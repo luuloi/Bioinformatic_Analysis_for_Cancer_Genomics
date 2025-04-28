@@ -142,6 +142,8 @@
    - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1yRez3tDDEAvdgHkAVgqCqWZiTn4s8Tsb?usp=sharing)
 
 ### [Lecture 17: Metastatic Cancer Genomics (27/04/2025) [Dr. Ngu]](Lecture_17) 
+- [YOUTUBE](https://youtu.be/FZ2MDDr6KnE)
+- [Q&A](https://youtu.be/G3R9buVUdr0)
 
 ### [Lecture 18.1: Structual Variant (SV) and Copy Number Variant Calling with DNA-seq (04/05/2025) [Dr. Loi]](Lecture_18) 
 ### [Lecture 18.2: Hands-on: Structual Variant (SV) Calling with DNA-seq (27/04/2025) [Nhu]](Lecture_18) 
