@@ -147,8 +147,13 @@
 - [Q&A](https://youtu.be/G3R9buVUdr0)
 
 ### [Lecture 18.1: Structual Variant (SV) and Copy Number Variant Calling with DNA-seq (04/05/2025) [Dr. Loi]](Lecture_18) 
+- [PDF] 
+- [YOUTUBE]
+- [Q&A]
 ### [Lecture 18.2: Hands-on: Structual Variant (SV) Calling with DNA-seq (27/04/2025) [Nhu]](Lecture_18) 
-- IGV
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1yOvhKPUrYjm9ckz_GWPyly_eG_cXy3sc#scrollTo=U-kvC2738B7K)
+- [YOUTUBE]
+- [Q&A]
 ### [Lecture 19.1: Cancer Somatic Variant Annotation (11/05/2025) [Dr. Minh]](Lecture_19)
 - [LECTURE](https://docs.google.com/presentation/d/e/2PACX-1vRbPaIOIpCVe9wTYvLCqLknSwFOcQ0wP8FQzdniHf7Ddveb3Z8ltHYYEiHnzH4mlep4X3EfUyyfx49L/pub?start=true&loop=false&delayms=60000&slide=id.p)
 ### [Lecture 19.2: Hands-on: Copy Number Variant (CNV) Calling with DNA-seq (04/05/2025) [Nhu]](Lecture_19) 
