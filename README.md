@@ -142,7 +142,7 @@
    - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1yRez3tDDEAvdgHkAVgqCqWZiTn4s8Tsb?usp=sharing)
 
 ### [Lecture 17: Metastatic Cancer Genomics (27/04/2025) [Dr. Ngu]](Lecture_17) 
-- [PDF] 
+- [PDF](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/blob/main/Lecture_17/Metastatic%20Cancer%20Genomics-Trinh%20Van%20Ngu.pdf)
 - [YOUTUBE](https://youtu.be/FZ2MDDr6KnE)
 - [Q&A](https://youtu.be/G3R9buVUdr0)
 
