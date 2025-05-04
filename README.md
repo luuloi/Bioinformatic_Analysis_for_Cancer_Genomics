@@ -152,6 +152,7 @@
 - [Q&A]
 ### [Lecture 18.2: Hands-on: Structual Variant (SV) Calling with DNA-seq (27/04/2025) [Nhu]](Lecture_18) 
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1yOvhKPUrYjm9ckz_GWPyly_eG_cXy3sc#scrollTo=U-kvC2738B7K)
+- [PDF](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/blob/main/Lecture_18/Key_terms_SVs.pdf)
 - [YOUTUBE]
 - [Q&A]
 ### [Lecture 19.1: Cancer Somatic Variant Annotation (11/05/2025) [Dr. Minh]](Lecture_19)
