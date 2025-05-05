@@ -146,22 +146,34 @@
 - [YOUTUBE](https://youtu.be/FZ2MDDr6KnE)
 - [Q&A](https://youtu.be/G3R9buVUdr0)
 
-### [Lecture 18.1: Structual Variant (SV) and Copy Number Variant Calling with DNA-seq (04/05/2025) [Dr. Loi]](Lecture_18) 
-- [PDF] 
+### [Lecture 18.1: Structual Variant (SV) and Copy Number Variant Calling with short-read DNA-seq (04/05/2025) [Dr. Loi]](Lecture_18) 
+- [PDF](Lecture_18/Lecture_18_SV_and_CNV_short_read.pdf)
 - [YOUTUBE]
 - [Q&A]
-### [Lecture 18.2: Hands-on: Structual Variant (SV) Calling with DNA-seq (27/04/2025) [Nhu]](Lecture_18) 
+### [Lecture 18.2: Hands-on: Structual Variant (SV) Calling with short-read DNA-seq (04/05/2025) [Nhu]](Lecture_18) 
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1yOvhKPUrYjm9ckz_GWPyly_eG_cXy3sc#scrollTo=U-kvC2738B7K)
 - [PDF](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/blob/main/Lecture_18/Key_terms_SVs.pdf)
 - [YOUTUBE]
 - [Q&A]
-### [Lecture 19.1: Cancer Somatic Variant Annotation (11/05/2025) [Dr. Minh]](Lecture_19)
+
+### [Lecture 19.1: Structual Variant (SV) and Copy Number Variant Calling with long-read DNA-seq (11/05/2025) [Dr. Loi]](Lecture_19) 
+- [PDF](Lecture_18/Lecture_18_SV_and_CNV_short_read.pdf)
+- [YOUTUBE]
+- [Q&A]
+### [Lecture 19.2: Hands-on: Copy Number Variant (CNV) with long-read DNA-seq (11/05/2025) [Nhu]](Lecture_19) 
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1yOvhKPUrYjm9ckz_GWPyly_eG_cXy3sc#scrollTo=U-kvC2738B7K)
+- [PDF](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/blob/main/Lecture_18/Key_terms_SVs.pdf)
+- [YOUTUBE]
+- [Q&A]
+
+### [Lecture 20.1: Cancer Somatic Variant Annotation (18/05/2025) [Dr. Minh]](Lecture_20)
 - [LECTURE](https://docs.google.com/presentation/d/e/2PACX-1vRbPaIOIpCVe9wTYvLCqLknSwFOcQ0wP8FQzdniHf7Ddveb3Z8ltHYYEiHnzH4mlep4X3EfUyyfx49L/pub?start=true&loop=false&delayms=60000&slide=id.p)
-### [Lecture 19.2: Hands-on: Copy Number Variant (CNV) Calling with DNA-seq (04/05/2025) [Nhu]](Lecture_19) 
+### [Lecture 20.2: Liquid Biopsy (cfDNA and ctDNA) for Cancer Genomics (18/05/2025) [Loi]](Lecture_20) 
 
-### [Lecture 20.1: Genetic counseling for Mendelian inheritance diseases (18/05/2025) [Dr. Trang]](Lecture_20) 
-### [Lecture 20.2: Genetic counseling for Cancer (18/05/2025) [Dr. Bac]](Lecture_20)
-
+### [Lecture 21.1: Genetic counseling for Mendelian inheritance diseases (25/05/2025) [Dr. Trang]](Lecture_21)
+-
+### [Lecture 21.2: Genetic counseling for Cancer (25/05/2025) [Dr. Bac]](Lecture_21)
+- 
 
 ## Materials
 - [**R book**](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Books/R)
