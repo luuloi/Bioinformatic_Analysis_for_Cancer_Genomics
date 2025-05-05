@@ -174,6 +174,16 @@
 -
 ### [Lecture 21.2: Genetic counseling for Cancer (25/05/2025) [Dr. Bac]](Lecture_21)
 - 
+### [Lecture 22: MGI solutions for Cancer Genomics (01/06/2025)]
+-
+### [Lecture 23: QIAGEN solutions for Cancer Genomics (08/06/2025)]
+-
+### [Lecture 24: GeneMind solutions for Cancer Genomics (15/06/2025)]
+-
+### [Lecture 25:PacBIO solutions for Cancer Genomics (22/06/2025)]
+-
+### [Lecture 26: Element Biosciences AVITI solutions for Cancer Genomics (29/06/2025)]
+-
 
 ## Materials
 - [**R book**](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Books/R)
