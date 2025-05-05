@@ -148,13 +148,13 @@
 
 ### [Lecture 18.1: Structual Variant (SV) and Copy Number Variant Calling with short-read DNA-seq (04/05/2025) [Loi]](Lecture_18) 
 - [PDF](Lecture_18/Lecture_18_SV_and_CNV_short_read.pdf)
-- [YOUTUBE]
-- [Q&A]
+- [YOUTUBE](https://youtu.be/RNTJqEu3dh4)
+- [Q&A](https://youtu.be/yNih-OF2l4o)
 ### [Lecture 18.2: Hands-on: Structual Variant (SV) Calling with short-read DNA-seq (04/05/2025) [Nhu]](Lecture_18) 
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1yOvhKPUrYjm9ckz_GWPyly_eG_cXy3sc#scrollTo=U-kvC2738B7K)
 - [PDF](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/blob/main/Lecture_18/Key_terms_SVs.pdf)
-- [YOUTUBE]
-- [Q&A]
+- [YOUTUBE](https://youtu.be/0Zx-WHCKC6I)
+- [Q&A](https://youtu.be/0Zx-WHCKC6I)
 
 ### [Lecture 19.1: Structual Variant (SV) and Copy Number Variant Calling with long-read DNA-seq (11/05/2025) [Loi]](Lecture_19) 
 - [PDF](Lecture_18/Lecture_18_SV_and_CNV_short_read.pdf)
