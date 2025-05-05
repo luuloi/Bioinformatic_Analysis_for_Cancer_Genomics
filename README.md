@@ -138,7 +138,7 @@
 - [LECTURE](https://docs.google.com/presentation/d/e/2PACX-1vTNRcsLk464Ubu0cMWCe5wcL906a5IBLdFxmDlltbrT6VoDWDWVpPhX4nFUVmjneiaIV_4pN6pl-4yv/pub?start=true&loop=false&delayms=60000)
 - [YOUTUBE](https://youtu.be/p1DtzV4_Yz8)
 - [Q&A](https://youtu.be/vw2abv1IbKM)
-#### [Practice on DNA-seq Downstream Analysis (Dr.Minh)](https://github.com/ducminhnguyenle/NGS3_Variant_Discovery.git):
+#### [Practice on DNA-seq Downstream Analysis (Dr. Minh)](https://github.com/ducminhnguyenle/NGS3_Variant_Discovery.git)
    - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1yRez3tDDEAvdgHkAVgqCqWZiTn4s8Tsb?usp=sharing)
 
 ### [Lecture 17: Metastatic Cancer Genomics (27/04/2025) [Dr. Ngu]](Lecture_17) 
