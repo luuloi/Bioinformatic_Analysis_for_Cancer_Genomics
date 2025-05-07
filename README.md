@@ -16,7 +16,7 @@
 - [Q&A](https://www.youtube.com/watch?v=EuSdIBYlxiQ)
 ### [Lecture 02.2: Introduction to Ubuntu, Linux command-lines, Google Colab and Github - Part I (22/12/2024) [Quy, Hung]](Lecture_02) 
 - [INTRODUCTION GOOGLE COLAB](Lecture_02/Introduction%20colab%20.pdf) &emsp; [Youtube](https://youtu.be/O11h2ockwdA)
-- [YOUTUBE - INTRODUCTION TO UBUNTU PART I](Lecture_02/Introduction%20ubuntu%20%20and%20linux.pdf) &emsp; [Youtube](https://youtu.be/5_9OvVOQY3c)
+- [PDF](Lecture_02/Introduction%20ubuntu%20%20and%20linux.pdf) &emsp; [Youtube](https://youtu.be/5_9OvVOQY3c)
 - [Basic Linux - PART I](Lecture_02/Ubuntu_and_basic_Linux_commmands_part1.pptx) &emsp; [Youtube](https://youtu.be/dMGVeR6UvhI)
 - - Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tYnG5H8EH90x59W-wqsqHNGbrH6HpIkE?usp=sharing)
 
