@@ -157,7 +157,7 @@
 - [Q&A](https://youtu.be/0Zx-WHCKC6I)
 
 ### [Lecture 19.1: Structual Variant (SV) and Copy Number Variant Calling with long-read DNA-seq (11/05/2025) [Loi]](Lecture_19) 
-- [PDF](Lecture_18/Lecture_18_SV_and_CNV_short_read.pdf)
+- [PDF](Lecture_19/Lecture_19_SV_and_CNV_long_read.pdf)
 - [YOUTUBE]
 - [Q&A]
 ### [Lecture 19.2: Hands-on: Structual Variant (SV) and Copy Number Variant Calling with long-read DNA-seq (11/05/2025) [Nhu]](Lecture_19) 
