@@ -180,7 +180,7 @@
 -
 ### [Lecture 24: GeneMind solutions for Cancer Genomics (15/06/2025)](Lecture_24)
 -
-### [Lecture 25:PacBio solutions for Cancer Genomics (22/06/2025)](Lecture_25)
+### [Lecture 25: PacBio solutions for Cancer Genomics (22/06/2025)](Lecture_25)
 -
 ### [Lecture 26: Element Biosciences AVITI solutions for Cancer Genomics (29/06/2025)](Lecture_26)
 -
