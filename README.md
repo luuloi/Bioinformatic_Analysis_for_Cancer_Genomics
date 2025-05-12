@@ -158,13 +158,13 @@
 
 ### [Lecture 19.1: Structual Variant (SV) and Copy Number Variant Calling with long-read DNA-seq (11/05/2025) [Loi]](Lecture_19) 
 - [PDF](Lecture_19/Lecture_19_SV_and_CNV_long_read.pdf)
-- [YOUTUBE]
-- [Q&A]
+- [YOUTUBE](https://youtu.be/FfpuCLfQPDs)
+- [Q&A](https://youtu.be/BCpoPEtA-bY)
 ### [Lecture 19.2: Hands-on: Structual Variant (SV) and Copy Number Variant Calling with long-read DNA-seq (11/05/2025) [Nhu]](Lecture_19) 
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17oDcf_yl9wJEtMnN50ppNP40_DGD65hH#scrollTo=XFhV3hsh2Ur2)
 - [PDF](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/blob/main/Lecture_18/Key_terms_SVs.pdf)
-- [YOUTUBE]
-- [Q&A]
+- [YOUTUBE](https://youtu.be/0BCfDdwIc6Q)
+- [Q&A](https://youtu.be/0BCfDdwIc6Q)
 
 ### [Lecture 20.1: Liquid Biopsy (cfDNA and ctDNA) for Cancer Genomics (18/05/2025) [Loi]](Lecture_20)
 ### [Lecture 20.2: Cancer Somatic Variant Annotation (18/05/2025) [Dr. Minh]](Lecture_20)
