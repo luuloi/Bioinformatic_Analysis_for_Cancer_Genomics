@@ -184,7 +184,7 @@
 -
 ### [Lecture 26: Element Biosciences AVITI solutions for Cancer Genomics (29/06/2025)](Lecture_26)
 -
-### [Lecture 27: Việt Huy for Cancer Genomics (06/06/2025)](Lecture_27)
+### [Lecture 27: Việt Huy for Cancer Genomics (06/07/2025)](Lecture_27)
 -
 ### [Lecture 28: An Thịnh solutions for Cancer Genomics (13/07/2025)](Lecture_28)
 -
