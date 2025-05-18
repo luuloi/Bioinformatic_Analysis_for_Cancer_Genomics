@@ -167,9 +167,12 @@
 - [Q&A](https://youtu.be/0BCfDdwIc6Q)
 
 ### [Lecture 20.1: Liquid Biopsy (cfDNA and ctDNA) for Cancer Genomics (18/05/2025) [Loi]](Lecture_20)
+- [PDF]
+- [YOUTUBE](https://youtu.be/iQaEreiuxhM)
+- [Q&A](https://youtu.be/jZccf-igcgc)
 ### [Lecture 20.2: Cancer Somatic Variant Annotation (18/05/2025) [Dr. Minh]](Lecture_20)
 - [LECTURE](https://docs.google.com/presentation/d/e/2PACX-1vRbPaIOIpCVe9wTYvLCqLknSwFOcQ0wP8FQzdniHf7Ddveb3Z8ltHYYEiHnzH4mlep4X3EfUyyfx49L/pub?start=true&loop=false&delayms=60000&slide=id.p)  
-  
+- [YOUTUBE](https://youtu.be/pD2UxXHEshw) 
 ### [Lecture 21.1: Genetic counseling for Mendelian inheritance diseases (25/05/2025) [Dr. Trang]](Lecture_21)
 -
 ### [Lecture 21.2: Genetic counseling for Cancer (25/05/2025) [Dr. Bac]](Lecture_21)
