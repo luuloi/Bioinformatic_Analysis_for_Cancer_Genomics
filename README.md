@@ -174,7 +174,7 @@
 - [LECTURE](https://docs.google.com/presentation/d/e/2PACX-1vRbPaIOIpCVe9wTYvLCqLknSwFOcQ0wP8FQzdniHf7Ddveb3Z8ltHYYEiHnzH4mlep4X3EfUyyfx49L/pub?start=true&loop=false&delayms=60000&slide=id.p)  
 - [YOUTUBE](https://youtu.be/pD2UxXHEshw) 
 ### [Lecture 21.1: Genetic counseling for Mendelian inheritance diseases (25/05/2025) [Dr. Trang]](Lecture_21)
--
+- [YOUTUBE](https://youtu.be/4J7qlZeKQSc)
 ### [Lecture 21.2: Genetic counseling for Cancer (25/05/2025) [Dr. Bac]](Lecture_21)
 - 
 ### [Lecture 22: MGI solutions for Cancer Genomics (01/06/2025)](Lecture_22)
