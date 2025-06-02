@@ -176,9 +176,19 @@
 ### [Lecture 21.1: Genetic counseling for Mendelian inheritance diseases (25/05/2025) [Dr. Trang]](Lecture_21)
 - [YOUTUBE](https://youtu.be/4J7qlZeKQSc)
 ### [Lecture 21.2: Genetic counseling for Cancer (25/05/2025) [Dr. Bac]](Lecture_21)
-- 
+- [YOUTUBE](https://youtu.be/PFndcgbRJ_c)
+- [Q&A](https://youtu.be/azZ1rFE_F4Y)
 ### [Lecture 22: MGI solutions for Cancer Genomics (01/06/2025)](Lecture_22)
--
+- [Application of DNBSEQ Technology ONcology Screening & Targeted Treatment - 1](https://youtu.be/kOe3taJp49Y)
+- [Application of DNBSEQ Technology ONcology Screening & Targeted Treatment - 2](https://youtu.be/nwgSZm4XomI)
+- [Ứng dụng công nghệ giải trình tự gen thế hệ mới (NGS) trong xét nghiệm đột biến gen - MAIA CENTER](https://youtu.be/ntned7Gzhyw)
+  - **Q&A**
+    
+      - [Q&A for Lecture 22.1](https://youtu.be/uqK_uaHglhA)
+    
+      - [Q&A for Lecture 22.2](https://youtu.be/fgmNqfAcX5M)
+    
+      - [Q&A for Lecture 22.3](https://youtu.be/lt0GQ0Px9Sc)  
 ### [Lecture 23: QIAGEN solutions for Cancer Genomics (08/06/2025)](Lecture_23)
 -
 ### [Lecture 24: PacBio solutions for Cancer Genomics (15/06/2025)](Lecture_24)
