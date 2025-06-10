@@ -190,7 +190,15 @@
     
       - [Q&A for Lecture 22.3](https://youtu.be/lt0GQ0Px9Sc)  
 ### [Lecture 23: QIAGEN solutions for Cancer Genomics (08/06/2025)](Lecture_23)
--
+- [High-Quality Nucleid Acid Extraction from Challenging Oncology Samples](https://youtu.be/pkM2QPfFahs)
+- [Comprehesive Solution for Oncology NGS: QIAseq Targeted DNA, RNA and Multimodal DNA/RNA](https://youtu.be/nOqm1DGyFI0)
+- [Simplify oncology NGS testing and clinical reporting for high-throughput data using QIAGEN CLC Genomics Workbench and QCI Interpret tools](https://youtu.be/8fkENCPF4Fs)
+  - **Q&A**
+    - [Q&A for Lecture 23.1](https://youtu.be/0iicOkHZWfY)
+   
+    - [Q&A for Lecture 23.2](https://youtu.be/NLgihGQO6xU)
+   
+    - [Q&A for Lecture 23.3](https://youtu.be/VMye0wpdWvQ)
 ### [Lecture 24: PacBio solutions for Cancer Genomics (15/06/2025)](Lecture_24)
 -
 ### [Lecture 25: GeneMind solutions for Cancer Genomics (22/06/2025)](Lecture_25)
