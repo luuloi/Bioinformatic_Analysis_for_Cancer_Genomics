@@ -202,6 +202,7 @@
 ### [Lecture 24: PacBio solutions for Cancer Genomics (15/06/2025)](Lecture_24)
 - [A new age in cancer genomics - Comprehensive somatic variant detection with accurate long- and short-read sequencing](https://youtu.be/lP5oBBXmG7w)
   - **Q&A**
+    
     -[Questions and Aswrers for Lecture 24](https://youtu.be/4nVcxD52yIo)
 ### [Lecture 25: GeneMind solutions for Cancer Genomics (22/06/2025)](Lecture_25)
 -
