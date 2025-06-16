@@ -200,7 +200,9 @@
    
     - [Q&A for Lecture 23.3](https://youtu.be/VMye0wpdWvQ)
 ### [Lecture 24: PacBio solutions for Cancer Genomics (15/06/2025)](Lecture_24)
--
+- [A new age in cancer genomics - Comprehensive somatic variant detection with accurate long- and short-read sequencing](https://youtu.be/lP5oBBXmG7w)
+  - **Q&A**
+    -[Questions and Aswrers for Lecture 24](https://youtu.be/4nVcxD52yIo)
 ### [Lecture 25: GeneMind solutions for Cancer Genomics (22/06/2025)](Lecture_25)
 -
 ### [Lecture 26: Element Biosciences AVITI solutions for Cancer Genomics (29/06/2025)](Lecture_26)
