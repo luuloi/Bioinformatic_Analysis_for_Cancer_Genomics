@@ -205,7 +205,13 @@
     
     -[Questions and Aswrers for Lecture 24](https://youtu.be/4nVcxD52yIo)
 ### [Lecture 25: GeneMind solutions for Cancer Genomics (22/06/2025)](Lecture_25)
--
+- [Bioinformatic pipeline for Oncology from Genemind](https://youtu.be/-PcRSsK2Id0)
+- [Genemind Oncology Solutions](https://youtu.be/ZOYG2Gnz2KM)
+  - **Q&A**
+
+    -[ Questions and Answers for Lecture 25.1](https://youtu.be/xRH-mLaUS50)
+    
+    -[ Questions and Answers for Lecture 25.2](https://youtu.be/rBcLEiubuRs)  
 ### [Lecture 26: Element Biosciences AVITI solutions for Cancer Genomics (29/06/2025)](Lecture_26)
 -
 ### [Lecture 27: Illumina for Cancer Genomics (06/07/2025)](Lecture_27)
