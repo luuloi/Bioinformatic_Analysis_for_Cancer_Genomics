@@ -214,14 +214,14 @@
     -[ Questions and Answers for Lecture 25.2](https://youtu.be/rBcLEiubuRs)
     
 ### [Lecture 26: Mtialab  and SISC group solutions for Cancer Genomics (06/07/2025)](Lecture_26)
-- [PDF](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/blob/main/Lecture%2026/microarray-%20v%C3%A0%20ph%C3%A1t%20hi%E1%BB%87n%20s%E1%BB%9Bm%20ung%20th%C6%B0.pdf)
-- [Streamlining data analysis of genomes and exomes in oncology clinical research](
-- [Giới thiệu kỹ thuật - Microarray trong phát hiện sớm ung thư](
+- [PDF - SISC Group](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/blob/main/Lecture_26/microarray-%20v%C3%A0%20ph%C3%A1t%20hi%E1%BB%87n%20s%E1%BB%9Bm%20ung%20th%C6%B0.pdf)
+- [Streamlining data analysis of genomes and exomes in oncology clinical research - Mitalab](https://youtu.be/jfJ7PemBG10)
+- [Giới thiệu kỹ thuật - Microarray trong phát hiện sớm ung thư - SISC Group](https://youtu.be/PDSi8fXjlZc)
   - **Q&A**
 
-    - [Questions and Answers for Lecture 26.1](
+    - [Questions and Answers for Lecture 26.1](https://youtu.be/jKY0_W02Kr4)
    
-    - [Questions and Answers for Lecture 26.2[(    
+    - [Questions and Answers for Lecture 26.2[(https://youtu.be/RdoUTIp8Zeg)  
 ### [Lecture 27: Việt Huy for Cancer Genomics (17/07/2025)](Lecture_28)
 -
 ### [Lecture 28: An Thịnh solutions for Cancer Genomics (20/07/2025)](Lecture_29)
