@@ -222,9 +222,11 @@
     - [Questions and Answers for Lecture 26.1](https://youtu.be/jKY0_W02Kr4)
    
     - [Questions and Answers for Lecture 26.2](https://youtu.be/RdoUTIp8Zeg)  
-### [Lecture 27: Việt Huy for Cancer Genomics (17/07/2025)](Lecture_28)
+### [Lecture 27: Việt Huy solutions for Cancer Genomics (13/07/2025)](Lecture_27)
 -
-### [Lecture 28: An Thịnh solutions for Cancer Genomics (20/07/2025)](Lecture_29)
+### [Lecture 28: AVITI solutions for Cancer Genomics (17/07/2025)](Lecture_28)
+- 
+### [Lecture 29: An Thịnh solutions for Cancer Genomics (20/07/2025)](Lecture_29)
 -
 
 ## Materials
