@@ -223,7 +223,13 @@
    
     - [Questions and Answers for Lecture 26.2](https://youtu.be/RdoUTIp8Zeg)  
 ### [Lecture 27: Việt Huy solutions for Cancer Genomics (13/07/2025)](Lecture_27)
--
+- [Giải pháp xét nghiệm gen trong điều trị ung thư - Việt Huy](https://youtu.be/8kSQfI1wqbg)
+- [Giải pháp xét nghiệm gen trong điều trị ung thư - Việt Huy](https://youtu.be/dyiz9LUoerA)
+  - **Q&A**
+
+    - [Questions and Answers for Lecture 27.1](https://youtu.be/3fYJNBJpjOU)
+   
+    - [Questions and Answers for Lecture 27.2](https://youtu.be/2sWk5dRGfhk)  
 ### [Lecture 28: AVITI solutions for Cancer Genomics (17/07/2025)](Lecture_28)
 - 
 ### [Lecture 29: An Thịnh solutions for Cancer Genomics (20/07/2025)](Lecture_29)
