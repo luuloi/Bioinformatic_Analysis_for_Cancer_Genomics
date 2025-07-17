@@ -223,6 +223,7 @@
    
     - [Questions and Answers for Lecture 26.2](https://youtu.be/RdoUTIp8Zeg)  
 ### [Lecture 27: Việt Huy solutions for Cancer Genomics (13/07/2025)](Lecture_27)
+- [PDF](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/blob/main/Lecture_27/Gi%E1%BA%A3i%20ph%C3%A1p%20x%C3%A9t%20nghi%E1%BB%87m%20gen%20%C4%91i%E1%BB%81u%20tr%E1%BB%8B%20%C4%91%C3%ADch%20ung%20th%C6%B0_Vi%E1%BB%87t%20Huy_13072025.pdf)
 - [Giải pháp xét nghiệm gen trong điều trị ung thư - Việt Huy](https://youtu.be/8kSQfI1wqbg)
 - [Giải pháp xét nghiệm gen trong điều trị ung thư - Việt Huy](https://youtu.be/dyiz9LUoerA)
   - **Q&A**
