@@ -231,8 +231,12 @@
     - [Questions and Answers for Lecture 27.1](https://youtu.be/3fYJNBJpjOU)
    
     - [Questions and Answers for Lecture 27.2](https://youtu.be/2sWk5dRGfhk)  
-### [Lecture 28: AVITI solutions for Cancer Genomics (17/07/2025)](Lecture_28)
-- 
+### [Lecture 28: SOPHiA solutions for Cancer Genomics (17/07/2025)](Lecture_28)
+- [SOPHiA solutions for Cancer Genomics](https://youtu.be/8HESKe_P0no)
+
+  - **Q&A**
+
+    -[Questions and Answers for Lecture 28](  https://youtu.be/7mOeTuvipzM)
 ### [Lecture 29: An Thịnh solutions for Cancer Genomics (20/07/2025)](Lecture_29)
 -
 
