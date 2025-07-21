@@ -238,7 +238,14 @@
 
     -[Questions and Answers for Lecture 28](  https://youtu.be/7mOeTuvipzM)
 ### [Lecture 29: An Thịnh solutions for Cancer Genomics (20/07/2025)](Lecture_29)
--
+- [Lecture 29.1: An Thịnh solutions for Cancer Genomics](https://youtu.be/s-uGxyInt54)
+- [Lecture 29.2: An Thịnh solutions for Cancer Genomics](https://youtu.be/s-uGxyInt54)
+
+  - **Q&A**
+
+    -[ Questions and Answers for Lecture 29.1 ](https://youtu.be/L7EvmCCvpy8)
+
+    -[ Questions and Answers for Lecture 29.2 ](https://youtu.be/L0kwa5iWqd0)
 
 ## Materials
 - [**R book**](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Books/R)
