@@ -247,7 +247,12 @@
     -[ Questions and Answers for Lecture 29.1 ](https://youtu.be/L7EvmCCvpy8)
 
     -[ Questions and Answers for Lecture 29.2 ](https://youtu.be/L0kwa5iWqd0)
+### [Lecture 30: Biomedic solutions for Cancer Genomics (03/08/2025)](Lecture_30)
+- [Lecture 30: Biomedic solutions for Cancer Genomics](https://youtu.be/9GOv7uE-dlw)
 
+  - **Q&A**
+
+    - [Questions and Answers for Lecture 30](https://youtu.be/3Sbw7tWaBQA)      
 ## Materials
 - [**R book**](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Books/R)
 - [**Bioinformatics Linux**](https://github.com/luuloi/Bioinformatic_Analysis_for_Cancer_Genomics/tree/main/Books/Bioinformatics_linux)
